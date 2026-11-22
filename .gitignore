@@ -1,8 +1,8 @@
-# Compiled Java output (matching your /out folder)
+# Compiled Java output
 out/
 *.class
 
-# Auto-generated persistent data & exported receipts
+# Auto-generated persistent data
 iou_records.txt
 
 # IDE & OS files
