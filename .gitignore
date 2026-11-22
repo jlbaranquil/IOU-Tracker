@@ -1,0 +1,16 @@
+# Compiled Java output (matching your /out folder)
+out/
+*.class
+
+# Auto-generated persistent data & exported receipts
+iou_records.txt
+
+# IDE & OS files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+.DS_Store
+Thumbs.db
